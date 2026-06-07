@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Telegram VoteBot
+  name: VoteBot version: 1.0 type: Repository author: VarshuAi description: >   Telegram VoteBot primary_tech: Python
 primary_tech: Python
 ```
 
